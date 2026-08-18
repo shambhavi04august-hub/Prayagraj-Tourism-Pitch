@@ -41,26 +41,6 @@ The video focuses on creating destination appeal through:
 
 ---
 
-# 🎥 Video Preview
-
-Upload a representative screenshot from the video as:
-
-`prayagraj_tourism_preview.png`
-
-Then add the following to your README:
-
-<p align="center">
-  <img src="prayagraj_tourism_preview.png"
-       alt="Prayagraj Tourism Pitch Preview"
-       width="800">
-</p>
-
-<p align="center">
-  <b>Prayagraj Tourism Pitch – Destination Promotion Video</b>
-</p>
-
----
-
 # 🎬 Project Video
 
 ### 📹 Prayagraj Tourism Pitch
