@@ -108,3 +108,82 @@ Emotional Connection
 Destination Appeal
       ↓
 Tourism Promotion
+
+---
+
+🎯 Target Audience
+
+The tourism pitch can be targeted toward:
+
+🧳 Domestic tourists
+🌍 International visitors
+👨‍👩‍👧 Families
+🎓 Students and young travelers
+📸 Travel enthusiasts
+🛕 Cultural and heritage tourists
+🌊 River and spiritual tourism visitors
+
+---
+
+📢 Potential Applications
+
+The video can be used for:
+
+Tourism campaigns
+Destination marketing
+Social media promotion
+College tourism projects
+Travel presentations
+Promotional campaigns
+Digital tourism platforms
+Cultural events
+Tourism pitch competitions
+
+---
+
+🛠️ Skills Demonstrated
+
+🎥 Video Storytelling
+🎬 Tourism Video Production
+📍 Destination Marketing
+🎨 Visual Communication
+🏛️ Cultural Presentation
+📢 Promotional Content Creation
+🌍 Tourism Branding
+🧠 Creative Concept Development
+📱 Digital Content Creation
+
+---
+
+📂 Repository Structure
+
+Prayagraj-Tourism-Pitch/
+│
+├── README.md
+│
+├── Prayagraj Tourism Pitch .mp4
+│
+└── prayagraj_tourism_preview.png
+📈 Project Outcome
+
+The project presents Prayagraj through a visually engaging tourism narrative, highlighting the city's scenic surroundings, bridges, architecture, and cultural character.
+
+The combination of aerial footage and landmark-focused visuals helps position Prayagraj as a destination worth exploring.
+
+---
+
+👩‍💻 Author
+
+Shambhavi Tripathi
+
+MBA – Logistics & Supply Chain Management
+
+Parul University, Vadodara
+
+---
+
+⭐ Project
+
+This project demonstrates my ability to create visual storytelling and destination-promotion content, combining tourism concepts with creative digital presentation.
+
+⭐ If you find this project interesting, consider starring the repository!
